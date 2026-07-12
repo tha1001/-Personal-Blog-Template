@@ -67,11 +67,8 @@ The layout is optimized for:
 
 ## 🚀 Getting Started
 
-Simply download or clone the repository and open **index.html** in your browser.
-
-```bash
-git clone https://github.com/your-username/project-name.git
-```
+Simply open this web address
+https://tha1001.github.io/-Personal-Blog-Template/
 
 ---
 
